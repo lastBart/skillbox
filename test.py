@@ -42,7 +42,7 @@ print("\nВведите вторую точку")
 x2 = float(input('X: '))
 
 y2 = float(input('Y: '))
-
+qwerty
 
 
 x_diff = x1 - x2
